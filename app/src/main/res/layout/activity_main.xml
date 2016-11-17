@@ -1,0 +1,38 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+
+    tools:context="com.example.host.activity.MainActivity">
+
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="loadActivity"
+        android:layout_centerInParent="true"
+        android:text="开始加载" />
+    <TextView
+        android:id="@+id/txt"
+        android:text="demo"
+        android:textSize="18sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <com.example.host.activity.DownloadView
+        android:id="@+id/dv"
+        android:layout_toRightOf="@+id/btn"
+        android:layout_marginLeft="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        custom:notBeginImg="@drawable/ic_no_download"
+        custom:waitImg="@drawable/ic_wait"
+        custom:pausedImg="@drawable/ic_pause"
+        custom:finishedImg="@drawable/ic_finished"
+        custom:strokeWidth="2dp"
+        custom:circleColor="#bdbdbd"
+        custom:radius="18dp"
+        custom:ringColor="#52ce90"/>
+
+</RelativeLayout>

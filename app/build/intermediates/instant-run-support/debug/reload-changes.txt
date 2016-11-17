@@ -1,0 +1,8 @@
+CHANGED,E:\AsProject\sz\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\dynamic\activity\MainActivity$2$override.class
+CHANGED,E:\AsProject\sz\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\dynamic\activity\MainActivity$3$override.class
+CHANGED,E:\AsProject\sz\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\dynamic\activity\MainActivity$5$override.class
+CHANGED,E:\AsProject\sz\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\dynamic\activity\MainActivity$4$override.class
+CHANGED,E:\AsProject\sz\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,E:\AsProject\sz\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\dynamic\activity\PlugProxyActivity$override.class
+CHANGED,E:\AsProject\sz\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\dynamic\activity\MainActivity$1$override.class
+CHANGED,E:\AsProject\sz\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\dynamic\activity\MainActivity$override.class

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AsProject\\sz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AsProject\\sz\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AsProject\\sz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\second_layout.xml",
+        "source": "E:\\AsProject\\sz\\app\\src\\main\\res\\layout\\second_layout.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\AsProject\\sz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_pause.png",
+        "source": "E:\\AsProject\\sz\\app\\src\\main\\res\\drawable-mdpi\\ic_pause.png"
+    },
+    {
+        "merged": "E:\\AsProject\\sz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_wait.png",
+        "source": "E:\\AsProject\\sz\\app\\src\\main\\res\\drawable-mdpi\\ic_wait.png"
+    },
+    {
+        "merged": "E:\\AsProject\\sz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_finished.png",
+        "source": "E:\\AsProject\\sz\\app\\src\\main\\res\\drawable-mdpi\\ic_finished.png"
+    },
+    {
+        "merged": "E:\\AsProject\\sz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_no_download.png",
+        "source": "E:\\AsProject\\sz\\app\\src\\main\\res\\drawable-mdpi\\ic_no_download.png"
+    },
+    {
+        "merged": "E:\\AsProject\\sz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\AsProject\\sz\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
